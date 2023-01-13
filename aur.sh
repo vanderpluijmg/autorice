@@ -6,6 +6,20 @@ sudo pacman -Sy
 # Install dependencies
 sudo pacman -S --needed --noconfirm base-devel git
 
+# Create a temporary directory for building auracle-git
+mkdir -p /tmp/auracle_install
+cd /tmp/auracle_install
+
+# Download auracle-git package
+curl -O https://aur.archlinux.org/cgit/aur.git/snapshot/auracle-git.tar.gz
+
+# Extract the package
+tar -xvf auracle-git.tar.gz
+cd auracle-git
+
+# Build and install the package
+makepkg -si
+
 # Create a temporary directory for building pacaur
 mkdir -p /tmp/pacaur_install
 cd /tmp/pacaur_install

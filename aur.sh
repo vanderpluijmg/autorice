@@ -13,7 +13,7 @@ cd /tmp/auracle_install
 curl -O https://aur.archlinux.org/cgit/aur.git/snapshot/auracle-git.tar.gz
 tar -xvf auracle-git.tar.gz
 cd auracle-git
-makepkg -si
+makepkg -si --noconfirm
 
 # Create a temporary directory for building pacaur
 mkdir -p /tmp/pacaur_install

@@ -5,3 +5,4 @@ systemctl start optimus-manager
 sudo cp ./optimus-manager.conf /etc/optimus-manager/optimus-manager.conf
 mkdir ~/.screenlayout
 cp monitor.sh ~/.screenlayout
+cp ../wallpaper.png ~/.screenlayout/wallpaper.png

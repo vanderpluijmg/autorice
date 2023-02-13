@@ -1,17 +1,15 @@
-### Vis
-Polybar
-Rofi
-Conky
+Trying to add themes to zsh and oh-my-zsh install script.
+Need to source the right plugin that is found /usr/share/zsh/plugins/zsh-suntax-highlighting/zsh-s***.zsh
 
-### Pra
-Should term open in specific workspace and should autofocus?
-Brave open different users
-Customize binding to apps in i3
+### Polybar
 
-##### Kitty
+### Rofi
+
+### I3
+View background
+Remove bar
+
+### zsh
+
+#### Kitty & Terminal
 Colors in terminal
-Remove yellow when new term open not in right workspace
-
-#### Polybar
-For fonts name is in i3 config
-Fonts are used in polybar

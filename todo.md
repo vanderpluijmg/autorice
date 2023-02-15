@@ -1,24 +1,32 @@
-Trying to add themes to zsh and oh-my-zsh install script.
-Need to source the right plugin that is found /usr/share/zsh/plugins/zsh-suntax-highlighting/zsh-s***.zsh
-
 ### Border and everything window related
 
+### Dunst
+Review 
+mod(i3) shift d restart dunsts but needed for window
 
 ### Polybar
+Battery not updating -- inotify ?
 
-### Rofi
+### nVim
+Create theme
 
 ### I3
-View background
-Remove bar
-
+Add spotify controls
+Add monitor hotfix shortcut
+View mode you are in ?
 ### zsh
+Redo prompt and add powerlevel10K
 
 #### Kitty & Terminal
 Colors in terminal
 
 ### Picom
+Add picom compositior button
 
 ### IRC
 
 ### Spotify
+Check weird glyph in text
+
+### Conky
+Review other conky and add own conky

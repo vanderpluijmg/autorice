@@ -5,18 +5,21 @@ Review
 mod(i3) shift d restart dunsts but needed for window
 
 ### Polybar
-Battery not updating -- inotify ?
 
 ### nVim
 Create theme
+
+### Gaming mode
+
 
 ### I3
 Add spotify controls
 Add monitor hotfix shortcut
 View mode you are in ?
+
 ### zsh
 Redo prompt and add powerlevel10K
-
+Review script
 #### Kitty & Terminal
 Colors in terminal
 

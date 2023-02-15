@@ -3,4 +3,5 @@
 chmod +x *
 ./aur.sh
 ./download_packages.sh
-./term.sh
+./cp_dotfiles
+./graphics_card.sh
